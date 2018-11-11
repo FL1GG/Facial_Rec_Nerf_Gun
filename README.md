@@ -9,7 +9,7 @@ The Project operates off a two axis system. One motor controls the X axis and th
 ![A picture of the Beast](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/20181108_160843.jpg)
 
 
-The code for this is messy but legible. (The current working version is pt2.) How it fuctions is it takes a haar-cascade and parses it over the camera feed and returns a box of the location of the face.  It compares this location to a bit below the center (accounting for camera positioning) and then applies power on both axis in a formula of {distance * constant}.  As the camera centers it slows down and once the crosshair is in the box of the face it activates the shooting sequence.  Then we annoy the face with nerf darts.
+The code for this is messy but legible. (The current working version is pt2.) How it fuctions is it takes a haar-cascade and parses it over the camera feed and returns a box of the location of the face.  It compares this location to a bit below the center (accounting for camera positioning) and then applies power on both axis in a formula of {distance * constant}.  As the camera centers it slows down and once the crosshair is in the box of the face it activates the shooting sequence.  Then we annoy the face with nerf darts. (Also I should note that the test motor function drives the gun with the WASD keys, in case you need that.)
 
 
 ![Down the barrel](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/20181108_160846.jpg)
