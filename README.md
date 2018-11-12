@@ -13,3 +13,7 @@ The code for this is messy but legible. (The current working version is pt2.) Ho
 
 
 ![Down the barrel](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/20181108_160846.jpg)
+
+![There she blows laddy](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/IMG_1521.TRIM.MOV) 
+![Shooty McShooterFace](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/IMG_1523.TRIM.MOV) 
+![Shooty Shoot Shoot](https://raw.githubusercontent.com/Auto19/Nerf_Gun_Shooter/master/IMG_1523.TRIM.MOV)
